@@ -12,13 +12,13 @@ Later it will be easier for you to jump into **any** technology related to data 
 
 ## Free Courses to cover the Basics:
 
-📚 [Services for Data Engineer](https://bit.ly/2RXJ12Z)
-📓 [Store Data](https://bit.ly/3hP8K87)
-📙 [Work with Relational Data](https://bit.ly/2FLpDna)
-📒 [Work with NoSql solution](https://bit.ly/3kEzh9N)
-📘 [Large scale data processing with Data Lakes](https://bit.ly/33S8nF0)
-📗 [Implement a Data Streaming Solution with Azure Streaming Analytics](https://bit.ly/3mME5Mz)
-📕 [Implement a Data Warehouse](bit.ly/3iKhVYJ)
+📚 [Services for Data Engineer](https://bit.ly/2RXJ12Z)\
+📓 [Store Data](https://bit.ly/3hP8K87)\
+📙 [Work with Relational Data](https://bit.ly/2FLpDna)\
+📒 [Work with NoSql solution](https://bit.ly/3kEzh9N)\
+📘 [Large scale data processing with Data Lakes](https://bit.ly/33S8nF0)\
+📗 [Implement a Data Streaming Solution with Azure Streaming Analytics](https://bit.ly/3mME5Mz)\
+📕 [Implement a Data Warehouse](bit.ly/3iKhVYJ)\
 
 
 Each module will take you about 4 hours to complete. If you are completing 1 every weekend, it will take you only 7 weekends.
