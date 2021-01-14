@@ -26,7 +26,7 @@ After it, you will be ready to take the certification exam.
 
 🏅 [Data Engineer Certificate](https://bit.ly/3611zqW) 
 ------
-The certificate is not free, but you can apply for a scholarship through the [link]((https://bit.ly/3611zqW). 
+The certificate is not free, but you can apply for a scholarship through the [link](https://bit.ly/3611zqW). 
 
 
 Now, after you finish understanding everything, you can start diving into any technology related to data!
