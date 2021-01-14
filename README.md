@@ -38,3 +38,6 @@ I hope this helps you get started and get a Data Engineer role fast!
 
 Have concerns? would you like to chat? send me a private message on [twitter](https://twitter.com/AdiPolak).
 
+
+
+_This was originaly posted on dev.to platform [Becoming a Data Engineer](https://dev.to/adipolak/becoming-a-data-engineer-1fe2)._
